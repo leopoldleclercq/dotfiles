@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = exec zsh
-	name = léopold
+	email = leopold.leclercq@audencia.com
+	name = léopold leclercq
